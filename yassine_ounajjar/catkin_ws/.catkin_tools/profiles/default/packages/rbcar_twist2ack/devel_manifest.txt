@@ -1,0 +1,6 @@
+diy_driverless_car_ROS/rbcar_twist2ack
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rbcar_twist2ack/cmake.lock /home/ameise/Yassine_GIT/catkin_ws/devel/./cmake.lock
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rbcar_twist2ack/share/rbcar_twist2ack/cmake/rbcar_twist2ackConfig.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/rbcar_twist2ack/cmake/rbcar_twist2ackConfig.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rbcar_twist2ack/share/rbcar_twist2ack/cmake/rbcar_twist2ackConfig-version.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/rbcar_twist2ack/cmake/rbcar_twist2ackConfig-version.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rbcar_twist2ack/lib/python2.7/dist-packages/rbcar_twist2ack/__init__.py /home/ameise/Yassine_GIT/catkin_ws/devel/lib/python2.7/dist-packages/rbcar_twist2ack/__init__.py
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rbcar_twist2ack/lib/pkgconfig/rbcar_twist2ack.pc /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/rbcar_twist2ack.pc

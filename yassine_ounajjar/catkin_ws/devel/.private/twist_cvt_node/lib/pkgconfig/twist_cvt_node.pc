@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/catkin_ws/devel/.private/twist_cvt_node
+
+Name: twist_cvt_node
+Description: Description of twist_cvt_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs rospy sensor_msgs

@@ -1,0 +1,7 @@
+diy_driverless_car_ROS/ouster_client
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/cmake.lock /home/ameise/Yassine_GIT/catkin_ws/devel/./cmake.lock
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/share/ouster_client/cmake/ouster_clientConfig-version.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/ouster_client/cmake/ouster_clientConfig-version.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/share/ouster_client/cmake/ouster_clientConfig.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/ouster_client/cmake/ouster_clientConfig.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/lib/libouster_client.a /home/ameise/Yassine_GIT/catkin_ws/devel/lib/libouster_client.a
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/lib/ouster_client/ouster_client_example /home/ameise/Yassine_GIT/catkin_ws/devel/lib/ouster_client/ouster_client_example
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client/lib/pkgconfig/ouster_client.pc /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/ouster_client.pc

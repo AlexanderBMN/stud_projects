@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_teleop
+
+Name: rover_teleop
+Description: Description of rover_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs joy roscpp rospy sensor_msgs

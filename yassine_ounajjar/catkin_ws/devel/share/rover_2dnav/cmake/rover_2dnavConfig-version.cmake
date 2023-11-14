@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_2dnav/share/rover_2dnav/cmake/rover_2dnavConfig-version.cmake

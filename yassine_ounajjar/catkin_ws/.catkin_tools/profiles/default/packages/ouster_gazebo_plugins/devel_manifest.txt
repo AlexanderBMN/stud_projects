@@ -1,0 +1,7 @@
+diy_driverless_car_ROS/ouster_gazebo_plugins
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/cmake.lock /home/ameise/Yassine_GIT/catkin_ws/devel/./cmake.lock
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig-version.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig-version.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/ouster_gazebo_plugins/cmake/ouster_gazebo_pluginsConfig.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/lib/libgazebo_ros_ouster_gpu_laser.so /home/ameise/Yassine_GIT/catkin_ws/devel/lib/libgazebo_ros_ouster_gpu_laser.so
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/lib/libgazebo_ros_ouster_laser.so /home/ameise/Yassine_GIT/catkin_ws/devel/lib/libgazebo_ros_ouster_laser.so
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_gazebo_plugins/lib/pkgconfig/ouster_gazebo_plugins.pc /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/ouster_gazebo_plugins.pc

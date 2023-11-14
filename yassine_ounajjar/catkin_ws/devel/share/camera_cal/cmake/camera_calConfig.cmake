@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/camera_cal/share/camera_cal/cmake/camera_calConfig.cmake

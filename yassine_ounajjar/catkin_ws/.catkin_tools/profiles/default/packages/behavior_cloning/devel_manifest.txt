@@ -1,0 +1,6 @@
+diy_driverless_car_ROS/rover_ml/behavior_cloning
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/cmake.lock /home/ameise/Yassine_GIT/catkin_ws/devel/./cmake.lock
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/share/behavior_cloning/cmake/behavior_cloningConfig.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/behavior_cloning/cmake/behavior_cloningConfig.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/share/behavior_cloning/cmake/behavior_cloningConfig-version.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/behavior_cloning/cmake/behavior_cloningConfig-version.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/lib/python2.7/dist-packages/behavior_cloning/__init__.py /home/ameise/Yassine_GIT/catkin_ws/devel/lib/python2.7/dist-packages/behavior_cloning/__init__.py
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/lib/pkgconfig/behavior_cloning.pc /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/behavior_cloning.pc

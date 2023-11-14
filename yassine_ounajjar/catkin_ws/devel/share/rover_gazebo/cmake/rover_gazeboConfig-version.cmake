@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_gazebo/share/rover_gazebo/cmake/rover_gazeboConfig-version.cmake

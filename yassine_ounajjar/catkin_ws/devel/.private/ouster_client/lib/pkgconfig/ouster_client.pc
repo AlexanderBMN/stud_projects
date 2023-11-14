@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/catkin_ws/devel/.private/ouster_client
+
+Name: ouster_client
+Description: Description of ouster_client
+Version: 0.1.0
+Cflags: -I/home/ameise/Yassine_GIT/catkin_ws/src/diy_driverless_car_ROS/ouster_client/include -I/usr/include/jsoncpp
+Libs: -L${prefix}/lib -louster_client -ljsoncpp
+Requires: 

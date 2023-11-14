@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_control/share/rover_control/cmake/rover_controlConfig-version.cmake

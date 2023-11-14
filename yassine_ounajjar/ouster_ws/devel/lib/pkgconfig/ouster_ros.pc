@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/ouster_ws/devel
+
+Name: ouster_ros
+Description: Description of ouster_ros
+Version: 0.3.0
+Cflags: -I/home/ameise/Yassine_GIT/ouster_ws/devel/include -I/home/ameise/Yassine_GIT/ouster_ws/src/ouster_example/ouster_ros/include -I/home/ameise/Yassine_GIT/ouster_ws/src/ouster_example/ouster_ros/../ouster_client/include -I/home/ameise/Yassine_GIT/ouster_ws/src/ouster_example/ouster_ros/../ouster_client/include/optional-lite -I/usr/include/eigen3
+Libs: -L${prefix}/lib -louster_ros
+Requires: roscpp message_runtime std_msgs sensor_msgs geometry_msgs

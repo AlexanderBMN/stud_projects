@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/share/behavior_cloning/cmake/behavior_cloningConfig.cmake

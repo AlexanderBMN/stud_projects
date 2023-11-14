@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_control/lib/pkgconfig/rover_control.pc

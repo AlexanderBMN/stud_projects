@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_gazebo
+
+Name: rover_gazebo
+Description: Description of rover_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

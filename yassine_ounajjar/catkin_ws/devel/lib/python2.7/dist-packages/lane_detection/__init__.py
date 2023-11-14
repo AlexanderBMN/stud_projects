@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/lane_detection/lib/python2.7/dist-packages/lane_detection/__init__.py

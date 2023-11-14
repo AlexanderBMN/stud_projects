@@ -1,0 +1,6 @@
+devel_space: /home/ameise/Yassine_GIT/catkin_ws/devel
+install: false
+install_space: /home/ameise/Yassine_GIT/catkin_ws/install
+profile: default
+source_space: /home/ameise/Yassine_GIT/catkin_ws/src
+workspace: /home/ameise/Yassine_GIT/catkin_ws

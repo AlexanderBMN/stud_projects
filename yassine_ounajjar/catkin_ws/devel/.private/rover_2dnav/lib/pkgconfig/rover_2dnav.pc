@@ -1,0 +1,8 @@
+prefix=/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_2dnav
+
+Name: rover_2dnav
+Description: Description of rover_2dnav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

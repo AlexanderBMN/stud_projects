@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_74960/fast"
+/usr/bin/make -f CMakeFiles/cmTC_74960.dir/build.make CMakeFiles/cmTC_74960.dir/build
+make[1]: Verzeichnis „/home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_74960.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_74960.dir/CheckSymbolExists.c.o   -c /home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_74960
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_74960.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_74960.dir/CheckSymbolExists.c.o  -o cmTC_74960 
+CMakeFiles/cmTC_74960.dir/CheckSymbolExists.c.o: In Funktion »main«:
+CheckSymbolExists.c:(.text+0x1b): Warnung: undefinierter Verweis auf »pthread_create«
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_74960.dir/build.make:97: recipe for target 'cmTC_74960' failed
+make[1]: *** [cmTC_74960] Error 1
+make[1]: Verzeichnis „/home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp“ wird verlassen
+Makefile:126: recipe for target 'cmTC_74960/fast' failed
+make: *** [cmTC_74960/fast] Error 2
+
+File /home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22ecf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_22ecf.dir/build.make CMakeFiles/cmTC_22ecf.dir/build
+make[1]: Verzeichnis „/home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp“ wird betreten
+Building C object CMakeFiles/cmTC_22ecf.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_22ecf.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_22ecf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_22ecf.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_22ecf.dir/CheckFunctionExists.c.o  -o cmTC_22ecf -lpthreads 
+/usr/bin/ld: -lpthreads kann nicht gefunden werden
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_22ecf.dir/build.make:97: recipe for target 'cmTC_22ecf' failed
+make[1]: *** [cmTC_22ecf] Error 1
+make[1]: Verzeichnis „/home/ameise/Yassine_GIT/catkin_ws/build/rover_teleop/CMakeFiles/CMakeTmp“ wird verlassen
+Makefile:126: recipe for target 'cmTC_22ecf/fast' failed
+make: *** [cmTC_22ecf/fast] Error 2
+
+

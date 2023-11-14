@@ -1,0 +1,2 @@
+ouster_example/ouster_ros
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/ameise/Yassine_GIT/ws_os/devel -DCMAKE_INSTALL_PREFIX=/home/ameise/Yassine_GIT/ws_os/install -G Unix Makefiles

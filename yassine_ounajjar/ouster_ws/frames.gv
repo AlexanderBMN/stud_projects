@@ -1,0 +1,8 @@
+digraph G {
+"os_sensor1" -> "os_imu1"[label="Broadcaster: /os_cloud_node_OS0_RIGHT\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+"os_sensor1" -> "os_lidar1"[label="Broadcaster: /os_cloud_node_OS0_RIGHT\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+"os_sensor2" -> "os_imu2"[label="Broadcaster: /os_cloud_node_OS0_LEFT\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+"os_sensor2" -> "os_lidar2"[label="Broadcaster: /os_cloud_node_OS0_LEFT\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+"os_sensor" -> "os_imu"[label="Broadcaster: /os_cloud_node_OS1_TOP\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+"os_sensor" -> "os_lidar"[label="Broadcaster: /os_cloud_node_OS1_TOP\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 \nBuffer length: 0.000 sec\n"];
+}

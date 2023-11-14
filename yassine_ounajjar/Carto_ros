@@ -1,0 +1,6 @@
+
+roslaunch urdf_tutorial display.launch model:=/home/ameise/Yassine_GIT/catkin_ws/src/diy_driverless_car_ROS/rover_2dnav/cartographer_ros/urdf/ameise_model.urdf
+
+rosbag record /os_cloud_node_OS1_TOP/imu /os_cloud_node_OS1_TOP/points
+
+roslaunch rover_2dnav offline_os_top_3d.launch bag_filenames:=/home/ameise/Yassine_GIT/2022-03-10-15-42-17.bag rviz:=true

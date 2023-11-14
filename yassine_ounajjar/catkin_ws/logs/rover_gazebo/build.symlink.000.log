@@ -1,0 +1,4 @@
+Symlinking /home/ameise/Yassine_GIT/catkin_ws/devel/share/rover_gazebo/cmake/rover_gazeboConfig.cmake
+Symlinking /home/ameise/Yassine_GIT/catkin_ws/devel/share/rover_gazebo/cmake/rover_gazeboConfig-version.cmake
+Symlinking /home/ameise/Yassine_GIT/catkin_ws/devel/etc/catkin/profile.d/60.husky_custom_gazebo.sh
+Symlinking /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/rover_gazebo.pc

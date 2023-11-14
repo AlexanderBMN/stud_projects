@@ -1,0 +1,1 @@
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/behavior_cloning/lib/pkgconfig/behavior_cloning.pc

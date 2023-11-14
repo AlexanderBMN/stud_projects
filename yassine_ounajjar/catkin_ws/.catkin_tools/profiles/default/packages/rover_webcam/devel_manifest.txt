@@ -1,0 +1,6 @@
+diy_driverless_car_ROS/rover_webcam
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_webcam/cmake.lock /home/ameise/Yassine_GIT/catkin_ws/devel/./cmake.lock
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_webcam/share/rover_webcam/cmake/rover_webcamConfig-version.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/rover_webcam/cmake/rover_webcamConfig-version.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_webcam/share/rover_webcam/cmake/rover_webcamConfig.cmake /home/ameise/Yassine_GIT/catkin_ws/devel/share/rover_webcam/cmake/rover_webcamConfig.cmake
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_webcam/lib/python2.7/dist-packages/openMV_cam/__init__.py /home/ameise/Yassine_GIT/catkin_ws/devel/lib/python2.7/dist-packages/openMV_cam/__init__.py
+/home/ameise/Yassine_GIT/catkin_ws/devel/.private/rover_webcam/lib/pkgconfig/rover_webcam.pc /home/ameise/Yassine_GIT/catkin_ws/devel/lib/pkgconfig/rover_webcam.pc
